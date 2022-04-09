@@ -1,3 +1,3 @@
-# Tugas Kuliah: Pembelajaran Mesin Lanjut
+# Eksplorasi Hyperparameter
 
-Eksplorasi Hyperparameter CNN dan	Neural Network menggunakan dataset yang sudah disediakan oleh module tf.keras.datasets (https://keras.io/api/datasets/).
+Eksplorasi Hyperparameter Fully Connected Neural Network dan Convolutional Neural Network menggunakan dataset yang sudah disediakan oleh library tf.keras.datasets (https://keras.io/api/datasets/).
